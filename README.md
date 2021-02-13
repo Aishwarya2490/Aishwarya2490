@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aishwarya2490
-- 👀 I’m interested in statistics, data analytics and related fields.
+- 👀 I’m interested in statistics, data analytics related fields.
 - 🌱 I’m currently learning statistics from Sri Venkateswara College, University of Delhi
 - 💞️ I’m looking to collaborate on data science related internships and projects.
 

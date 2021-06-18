@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aishwarya2490
+- 👋 Hi, I’m Aishwarya Srivastava
 - 👀 I’m interested in statistics, data science, machine learning and related fields.
 - 🌱 I’m currently learning statistics from Sri Venkateswara College, University of Delhi
 - 💞️ I’m looking to collaborate for data science related internships and projects.

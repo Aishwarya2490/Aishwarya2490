@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aishwarya Srivastava
 - 👀 I’m interested in statistics, data science, machine learning and related fields.
-- 🌱 I’m currently learning statistics from Sri Venkateswara College, University of Delhi
+- 🌱 I’m a recent graduate majored in statistics from Sri Venkateswara College, University of Delhi
 - 💞️ I’m looking to collaborate for data science related internships and projects.
 
 
